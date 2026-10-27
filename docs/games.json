@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 281,
+    "games": 287,
     "categories": 18,
     "reddit": 20
   },
@@ -329,6 +329,17 @@
       ]
     },
     {
+      "id": "vowelkit",
+      "name": "Vowelkit",
+      "url": "https://www.vowelkit.com/daily",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Guess the five-letter word of the day in six tries, with extra modes from 3 to 11 letters.",
+      "tags": [
+        "unlimited"
+      ]
+    },
+    {
       "id": "waffle",
       "name": "Waffle",
       "url": "https://wafflegame.net/",
@@ -367,16 +378,13 @@
       "tags": []
     },
     {
-      "id": "connections",
-      "name": "Connections",
-      "url": "https://www.nytimes.com/games/connections",
+      "id": "word-bridge",
+      "name": "Word Bridge",
+      "url": "https://bludle.com/wordbridge/",
       "category": "word-connections",
       "platform": "web",
-      "description": "Sort sixteen words into four hidden groups of four; four mistakes and you are out.",
-      "tags": [
-        "nyt",
-        "classic"
-      ]
+      "description": "Find one word that forms a familiar compound or phrase with both words on the daily board.",
+      "tags": []
     },
     {
       "id": "cemantle",
@@ -413,6 +421,18 @@
       "platform": "web",
       "description": "Connections-style grouping puzzle with a generous daily archive.",
       "tags": []
+    },
+    {
+      "id": "connections",
+      "name": "Connections",
+      "url": "https://www.nytimes.com/games/connections",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Sort sixteen words into four hidden groups of four; four mistakes and you are out.",
+      "tags": [
+        "nyt",
+        "classic"
+      ]
     },
     {
       "id": "contexto",
@@ -1029,15 +1049,13 @@
       "tags": []
     },
     {
-      "id": "pips",
-      "name": "Pips",
-      "url": "https://www.nytimes.com/games/pips",
+      "id": "rulebreaker",
+      "name": "Rulebreaker",
+      "url": "https://bludle.com/rulebreaker/",
       "category": "logic",
       "platform": "web",
-      "description": "Place dominoes so every marked region satisfies its sum, equality or inequality rule.",
-      "tags": [
-        "nyt"
-      ]
+      "description": "Tune and reorder cipher transformations until the daily encrypted phrase becomes readable.",
+      "tags": []
     },
     {
       "id": "alembic",
@@ -1183,6 +1201,15 @@
       ]
     },
     {
+      "id": "lacey-s-web",
+      "name": "Lacey's Web",
+      "url": "https://lieofsight.com/web",
+      "category": "logic",
+      "platform": "web",
+      "description": "Spin threads between knots until each knot holds exactly its number and the whole web is one piece.",
+      "tags": []
+    },
+    {
       "id": "lie-of-sight",
       "name": "Lie of Sight",
       "url": "https://lieofsight.com/",
@@ -1250,6 +1277,17 @@
       "tags": []
     },
     {
+      "id": "pips",
+      "name": "Pips",
+      "url": "https://www.nytimes.com/games/pips",
+      "category": "logic",
+      "platform": "web",
+      "description": "Place dominoes so every marked region satisfies its sum, equality or inequality rule.",
+      "tags": [
+        "nyt"
+      ]
+    },
+    {
       "id": "queens",
       "name": "Queens",
       "url": "https://www.linkedin.com/games/queens",
@@ -1265,6 +1303,15 @@
       "category": "logic",
       "platform": "web",
       "description": "A hexagonal crossword where every line is a regular expression you have to satisfy.",
+      "tags": []
+    },
+    {
+      "id": "rex-s-fetch",
+      "name": "Rex's Fetch",
+      "url": "https://lieofsight.com/fetch",
+      "category": "logic",
+      "platform": "web",
+      "description": "Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.",
       "tags": []
     },
     {
@@ -2155,6 +2202,15 @@
       "category": "trivia",
       "platform": "web",
       "description": "Race from one Wikipedia article to another using only in-article links.",
+      "tags": []
+    },
+    {
+      "id": "wikicards-trivia",
+      "name": "WikiCards Trivia",
+      "url": "https://playwikicards.com/trivia-questions/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Twenty general-knowledge questions a day, generated from Wikidata facts, with each answer linked to its source item.",
       "tags": []
     },
     {

@@ -191,13 +191,6 @@
   platform: web
   description: Find one word that forms a familiar compound or phrase with both words on the daily board.
 
-- name: Connections
-  url: https://www.nytimes.com/games/connections
-  category: word-connections
-  platform: web
-  description: Sort sixteen words into four hidden groups of four; four mistakes and you are out.
-  tags: [nyt, classic]
-
 - name: Cemantle
   url: https://cemantle.certitudes.org/
   category: word-connections
@@ -221,6 +214,13 @@
   category: word-connections
   platform: web
   description: Connections-style grouping puzzle with a generous daily archive.
+
+- name: Connections
+  url: https://www.nytimes.com/games/connections
+  category: word-connections
+  platform: web
+  description: Sort sixteen words into four hidden groups of four; four mistakes and you are out.
+  tags: [nyt, classic]
 
 - name: Contexto
   url: https://contexto.me/
@@ -637,13 +637,6 @@
   platform: web
   description: Tune and reorder cipher transformations until the daily encrypted phrase becomes readable.
 
-- name: Pips
-  url: https://www.nytimes.com/games/pips
-  category: logic
-  platform: web
-  description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
-  tags: [nyt]
-
 - name: Alembic
   url: https://goblinarcade.com/play/alembic
   category: logic
@@ -787,6 +780,13 @@
   category: logic
   platform: reddit
   description: A water-sort puzzle where you pour coloured liquids between tubes until every tube holds a single pigment.
+
+- name: Pips
+  url: https://www.nytimes.com/games/pips
+  category: logic
+  platform: web
+  description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
+  tags: [nyt]
 
 - name: Queens
   url: https://www.linkedin.com/games/queens

@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **281 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **287 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -71,6 +71,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Survivle](https://lazyguyy.github.io/survivle/) - Wordle turned survival horror — guessing the answer is how you lose.
 - [SUTOM](https://sutom.nocle.fr/) - French Wordle with six to nine letter words and the first letter given away.
 - [Term.ooo](https://term.ooo/) - The Brazilian Portuguese Wordle, with three-board and six-board modes.
+- [Vowelkit](https://www.vowelkit.com/daily) - Guess the five-letter word of the day in six tries, with extra modes from 3 to 11 letters.
 - [Waffle](https://wafflegame.net/) - A waffle-shaped grid of scrambled words that you repair in fifteen swaps or fewer.
 - [Word Peaks](https://vegeta897.github.io/word-peaks/) - Clues tell you whether each letter comes alphabetically before or after your guess.
 - [Wordiply](https://www.wordiply.com/) - The Guardian's game: find the five longest words containing a given starter string.
@@ -80,11 +81,12 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 > Group them, link them, or close in on a secret word by meaning rather than spelling.
 
-- [Connections](https://www.nytimes.com/games/connections) - Sort sixteen words into four hidden groups of four; four mistakes and you are out.
+- [Word Bridge](https://bludle.com/wordbridge/) - Find one word that forms a familiar compound or phrase with both words on the daily board.
 - [Cemantle](https://cemantle.certitudes.org/) - Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.
 - [ClueRoll](https://clueroll.com/) - Find the word linking three clues, then roll lettered cubes into place so their top faces spell the answer.
 - [Combinations](https://combinations.org/) - Find the word that pairs with every one of the given words to form a compound.
 - [Conexo](https://conexo.ws/en) - Connections-style grouping puzzle with a generous daily archive.
+- [Connections](https://www.nytimes.com/games/connections) - Sort sixteen words into four hidden groups of four; four mistakes and you are out.
 - [Contexto](https://contexto.me/) - Guess the secret word; each attempt comes back ranked by semantic closeness.
 - [Crossclimb](https://www.linkedin.com/games/crossclimb) - Solve a ladder of one-letter-apart words, then reorder the rungs into a hidden sequence.
 - 🟠 [HotandCold](https://www.reddit.com/r/HotandCold/) - Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.
@@ -171,7 +173,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 > Sudoku, nonograms, pathfinders and pure deduction grids.
 
-- [Pips](https://www.nytimes.com/games/pips) - Place dominoes so every marked region satisfies its sum, equality or inequality rule.
+- [Rulebreaker](https://bludle.com/rulebreaker/) - Tune and reorder cipher transformations until the daily encrypted phrase becomes readable.
 - [Alembic](https://goblinarcade.com/play/alembic) - Combine Fire, Water, Earth and Air to reach the day's target element in as few brews as possible, with par for Gold.
 - [ArrowGame](https://arrowgame.app/) - Tap arrows off the board only once their exit path is clear, with a shared daily Boss puzzle alongside a 1,000-level campaign.
 - [Balance Grid](https://playbalancegrid.com/daily/) - Fill a daily 6x6 grid with three Light and three Dark cells per line, no triples and no duplicate lines; each puzzle has exactly one solution.
@@ -187,6 +189,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Flipart](https://www.puzzmo.com/play/flip-art) - Rotate irregular pieces until they tile the board exactly.
 - [Goblin Maze](https://goblinarcade.com/play/goblin-maze) - Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.
+- [Lacey's Web](https://lieofsight.com/web) - Spin threads between knots until each knot holds exactly its number and the whole web is one piece.
 - 💰 [Lie of Sight](https://lieofsight.com/) - Move a family around a room to test what each says they saw, then accuse the one whose story can't be true.
 - [Murdle](https://murdle.com/) - A daily murder mystery solved with a logic grid — suspect, weapon, location, motive.
 - 🟠 [Ninigrams](https://www.reddit.com/r/ninigrams/) - Nonograms sized for a phone screen and playable without leaving Reddit.
@@ -194,8 +197,10 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [One Step Late](https://arkai.win/games/one-step-late/) - Your shadow repeats your previous move one turn late; bring yourself to the sun and it to the moon on the same turn.
 - [One Up Puzzle](https://www.oneuppuzzle.com/) - Fill each run of cells with ascending numbers so no row or column repeats.
 - 🟠 [Pigment Pour Daily](https://www.reddit.com/r/PigmentPourDaily/) - A water-sort puzzle where you pour coloured liquids between tubes until every tube holds a single pigment.
+- [Pips](https://www.nytimes.com/games/pips) - Place dominoes so every marked region satisfies its sum, equality or inequality rule.
 - [Queens](https://www.linkedin.com/games/queens) - Place one crown per row, column and colour region without any two touching.
 - [Regexle](https://regexle.com/) - A hexagonal crossword where every line is a regular expression you have to satisfy.
+- [Rex's Fetch](https://lieofsight.com/fetch) - Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.
 - [Shikaku of the Day](https://shikakuofthe.day/) - Cut a grid into rectangles so that each one contains exactly one number equal to its area.
 - [Shinro Garden](https://shinro-garden.daily-game.page/) - Plant 12 flowers using the arrow and count clues.
 - [Sudoku (NYT)](https://www.nytimes.com/puzzles/sudoku) - Easy, medium and hard grids refreshed every day, free to play.
@@ -326,6 +331,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Thrice](https://thrice.geekswhodrink.com/) - Three questions, three guesses each, from the people behind Geeks Who Drink pub quizzes.
 - [Tightrope](https://www.britannica.com/quiz/tightrope) - Keep answering correctly to stay on the wire; one slip ends the run.
 - [The Wiki Game Daily](https://www.thewikigamedaily.com/) - Race from one Wikipedia article to another using only in-article links.
+- [WikiCards Trivia](https://playwikicards.com/trivia-questions/) - Twenty general-knowledge questions a day, generated from Wikidata facts, with each answer linked to its source item.
 
 ## 🖼️ Visual & Estimation
 
